@@ -15,3 +15,4 @@ neon-build = "0.3.1"
 
 [dependencies]
 neon = "0.3.1"
+regex = "1"
